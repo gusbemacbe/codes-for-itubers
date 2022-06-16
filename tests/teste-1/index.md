@@ -1,0 +1,51 @@
+<link rel="stylesheet" media="screen" type="text/css" href="assets/css/global.css">
+<link rel="stylesheet" media="screen" type="text/css" href="assets/css/tokens/voxel/ion.css" id="active_stylesheet">
+
+# Teste de tematizacão e tradução
+
+<div class="demo">
+    <label for="ThemeSelect"> Themes </label>
+    <select id="ThemeSelect" onchange="setFolder(this)">
+        <option data-folder="gusbemacbe" value="cyberpunk">cyberpunk</option>
+        <option data-folder="voxel"      value="ion">íon</option>
+        <option data-folder="voxel"      value="itau">itaú</option>
+        <option data-folder="voxel"      value="iti">iti</option>
+    </select>
+</div>
+
+<div class="demo">
+    <label for="LanguageSelect"> Languages </label>
+    <select id="LanguageSelect">
+        <option value="en">EN</option>
+        <option value="de">DE</option>
+        <option value="es">ES</option>
+    </select>
+</div>
+
+<div class="demo">
+    <h1 data-i18n="title">How To Cook A Juicy Chicken Breast</h1>
+    <p data-i18n="content">
+        There’s a big difference between juicy chicken breasts and rubbery
+        chicken breasts. Obviously, you want to avoid the latter at all costs.
+        Follow these 4 steps and you’re gold. You want to add protein to
+        favorites like Caesar salad or fix up a quick chicken salad or club
+        sandwich? Try this method and savor the results.
+    </p>
+    <h2 data-i18n="ingredients.title">Ingredients</h2>
+    <ul>
+        <li data-i18n="ingredients.$0">1 pound boneless chicken breasts</li>
+        <li data-i18n="ingredients.$1">2 teaspoons olive oil</li>
+        <li data-i18n="ingredients.$2">salt and pepper</li>
+    </ul>
+</div>
+
+<div class="demo">
+    <div>
+        <a class="button" href="#">
+            Visite
+        </a>
+    </div>
+</div>
+
+<script src="assets/js/plugins/simple-translator.js"></script>
+<script src="assets/js/global-complete.js"></script>

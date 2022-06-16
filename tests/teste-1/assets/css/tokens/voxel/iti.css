@@ -1,0 +1,9 @@
+/* :root[class*="theme-iti"],
+:root:not([class^="theme-"])  */
+
+:root
+{
+    --button_text_colour_primary_base: rgb(255, 255, 255);
+    --button_background_colour_primary_base: #FF4B8D;
+    --border_radius: 24px;
+}

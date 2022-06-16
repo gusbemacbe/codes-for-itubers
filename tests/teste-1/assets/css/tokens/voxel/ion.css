@@ -1,0 +1,9 @@
+/* :root[class*="theme-ion"],
+:root:not([class^="theme-"]) */
+
+:root
+{
+    --button_text_colour_primary_base: rgb(0, 0, 0);
+    --button_background_colour_primary_base: rgb(167, 206, 46);
+    --border_radius: 0px;
+}

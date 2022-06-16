@@ -1,0 +1,19 @@
+{
+    "navigation": {
+        "home": "Startseite",
+        "categories": "Kategorien",
+        "about": "Über Uns"
+    },
+    "title": "Wie man eine saftige Hühnerbrust kocht",
+    "content": "Es gibt einen großen Unterschied <i>zwischen</i> saftigen Hähnchenbrustfilets und gummiartigen Hähnchenbrustfilets. Letzteres möchten Sie natürlich um jeden Preis vermeiden. Befolgen Sie diese 4 Schritte und Sie sind goldrichtig. Sie möchten Ihren Favoriten wie Caesar-Salat Protein hinzufügen oder einen schnellen Hühnchensalat oder ein Club-Sandwich zubereiten? Probieren Sie diese Methode aus und genießen Sie die Ergebnisse.",
+    "ingredients": {
+        "title": "Zutaten",
+        "$0": "1 Pfund Hähnchenbrust ohne Knochen",
+        "$1": "2 Teelöffel Olivenöl",
+        "$2": "Salz und Pfeffer"
+    },
+    "dialog": {
+        "button": "Zeige Kalorien",
+        "content": "Dieses Gericht hat zu viele Kalorien."
+    }
+}

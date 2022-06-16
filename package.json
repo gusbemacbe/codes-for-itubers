@@ -1,0 +1,31 @@
+{
+  "name": "codes-for-itubers",
+  "version": "1.0.0",
+  "description": "Code distributions for itubers (Itaú coworkers) who can't access Codepan, Gist and other sites blocked by the company",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusbemacbe/codes-for-itubers.git"
+  },
+  "keywords": [
+    "code",
+    "codes",
+    "css",
+    "example",
+    "examples",
+    "html",
+    "javascript",
+    "js",
+    "sass",
+    "scss",
+    "typescript"
+  ],
+  "author": "Gustavo Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gusbemacbe/codes-for-itubers/issues"
+  },
+  "homepage": "https://github.com/gusbemacbe/codes-for-itubers#readme"
+}
